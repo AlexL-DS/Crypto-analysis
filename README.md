@@ -7,14 +7,13 @@
 
 Пример вывода терминала по окончании сессии
 ![Demo](./.image2.png)
-## Программа выполнена на языке Phyton, исполнение возможно в любом редакторе и IDE (VSCode, PyCharm, JN).
+
+## Программа выполнена на языке Python v 3.9.13
 Для выполнения необходимо установить следующие библиотеки:
 - requests
 - pandas
 - tkinter
 - matplotlib
+- 
 ```phyton
-!pip install requests
-!pip install pandas
-!pip install tk
-!pip install matplotlib
+pip install requests pandas tk matplotlib
