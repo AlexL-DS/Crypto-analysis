@@ -14,6 +14,6 @@
 - pandas
 - tkinter
 - matplotlib
-- 
+ 
 ```phyton
 pip install requests pandas tk matplotlib
